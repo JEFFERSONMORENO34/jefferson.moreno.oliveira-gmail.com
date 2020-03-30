@@ -1,0 +1,4 @@
+Azul
+Amarelo
+Laranja
+Roxo
