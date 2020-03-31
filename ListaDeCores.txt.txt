@@ -2,3 +2,5 @@ Azul
 Amarelo
 Laranja
 Roxo
+Vermelho
+rosa
