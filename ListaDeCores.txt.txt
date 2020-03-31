@@ -4,3 +4,5 @@ Laranja
 Roxo
 Vermelho
 rosa
+Verde
+Preto
